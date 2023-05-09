@@ -3,10 +3,12 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId><!-- TODO: the groupId of your project (e.g., hu.unideb.inf) --></groupId>
-    <artifactId><!-- TODO: the artifactId of your project --></artifactId>
+    <groupId>hu.unideb.inf</groupId>
+    <artifactId>TicTacToe5</artifactId>
     <version>1.0</version>
-    <description><!-- TODO: a short description of your project --></description>
+    <description>Tic Tac Toe 5 is game with two-player. Game played on a 5x5 board where players take turns placing colored stones (red or blue) on empty cells. The game ends when a row, column, or diagonal contains three stones of the same color, and the player to which those stones belong loses.
+        When the game is started, the program must ask for the names of the players.
+        The program must store the result of the games as follows. For each game, the following information must be stored: the date and time when the game was started, the name of the players, the number of turns made by the players during the game, and the name of the winner. The program should be able to display a high score table in which the top 5 players with the most wins are displayed.</description>
     <developers>
         <developer>
             <id><!-- TODO: your ID --></id>
