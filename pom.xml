@@ -11,9 +11,9 @@
         The program must store the result of the games as follows. For each game, the following information must be stored: the date and time when the game was started, the name of the players, the number of turns made by the players during the game, and the name of the winner. The program should be able to display a high score table in which the top 5 players with the most wins are displayed.</description>
     <developers>
         <developer>
-            <id><!-- TODO: your ID --></id>
-            <name><!-- TODO: your name --></name>
-            <email><!-- TODO: your email address --></email>
+            <id>RFD7M9</id>
+            <name>Margad Enkhbayar</name>
+            <email>enkhbayarmargad79@gmail.com</email>
             <organization>Faculty of Informatics, University of Debrecen</organization>
             <organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
         </developer>
