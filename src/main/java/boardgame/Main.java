@@ -1,5 +1,6 @@
 package boardgame;
 
+import boardgame.model.BoardGameApplication;
 import javafx.application.Application;
 
 public class Main {
