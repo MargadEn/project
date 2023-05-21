@@ -1,4 +1,4 @@
-package boardgame;
+package boardgame.model;
 
 import boardgame.model.BoardGameModel;
 import boardgame.model.Square;
@@ -59,7 +59,7 @@ public class BoardGameController {
         var row = GridPane.getRowIndex(square);
         var col = GridPane.getColumnIndex(square);
         System.out.printf("Click on square (%d,%d)%n", row, col);
-        model.move(row, col);
+        model.makeMove(row, col);
     }
 
 }
